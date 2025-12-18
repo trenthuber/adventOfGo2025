@@ -1,10 +1,11 @@
 # Advent of Go 2025
 
-Completing [this year's Advent of Code](https://adventofcode.com/2025/) to the
-best of my ability entirely in [Go](https://go.dev/doc/). Day 10, Part 2 and Day
-12, Part 1 remain unable to be checked for correctness since my code runs too
-slow. Day 12, Part 2 remains unimplemented since I couldn't complete Part 1 for
-that day.
+I decided to try [this year's Advent of Code](https://adventofcode.com/2025/)
+exclusively using [Go](https://go.dev/doc/). While most of the programs here run
+successfully, there were a few I had trouble with. Day 10, Part 2 and Day 12,
+Part 1 simply run too slow to generate an answer (although I do think the
+algorithm I went with is correct) and Day 12, Part 2 is left unimplemented since
+I couldn't complete Part 1 for that day.
 
 ## Building
 
