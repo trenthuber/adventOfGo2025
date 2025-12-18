@@ -9,13 +9,13 @@ that day.
 ## Building
 
 To build any file, just use the `go build` command. The program reads its input
-from a file named `input.txt` located in the same directory that you're running
-the program in. To specify whether you'd like to process the input according to
-the first or second part of that day's challenge, you can either pass a `1` or a
-`2` as a command line argument. Each challenge comes with additional smaller
-input used for basic testing that can be copied to a file named `test.txt`.
-Passing `test` as a command line argument will have the program read input from
-`test.txt` instead.
+from a file named `input.txt`. To specify whether you'd like to process the
+input according to the first or second part of that day's challenge, you can
+either pass a `1` or a `2` as a command line argument.
+
+Each challenge comes with additional input used for basic testing that can be
+pasted into a file named `test.txt`.  Passing `test` as a command line argument
+will have the program read input from `test.txt` instead of `input.txt`.
 
 If you find this code at all useful, I've included a template, `template.go`,
 that can be used for any other Advent of Code challenges.
